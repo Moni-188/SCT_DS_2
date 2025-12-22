@@ -20,7 +20,7 @@ The dashboard analyzes passenger data by exploring relationships between surviva
 - Interactive gender filter for dynamic analysis  
 
 ## 🛠 Tools Used
-- Power BI (or Python / Excel — mention what you used)  
+- Power BI 
 - Data visualization and EDA techniques  
 
 ## 🔍 Key Insights
